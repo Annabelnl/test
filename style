@@ -1,0 +1,72 @@
+
+
+           		 body {
+           			font-family: 'lobster', serif;
+           			background-color: #89C5F6
+
+
+           			}
+
+
+
+           			header {
+           				width: 100%;
+           				height: 100px;
+           				background-image: url("https://images.wallpapersden.com/image/download/apple-ipad-air-stock-2020_bGhmZW2UmZqaraWkpJRnbW1lrWZtZWU.jpg");
+
+           			}
+           									  
+
+           			ul {
+						  list-style-type: none;
+						  text-decoration: none;
+						  margin: 0;
+						  padding: 0;
+						  top: 0;
+						  width: 100%;
+						  
+						
+						}
+
+						li {
+						  float: right;
+						 }
+
+						li a {
+						  display: block;
+						  color: white;
+						  text-align: center;
+						  padding: 14px 16px;
+						  text-decoration: none;
+						  margin-top: 50px;
+						  border: 1px solid black;
+						  width: 70px;
+
+						}
+
+						.inhoud {
+							margin-top: 10px;
+							padding: 30px;
+							margin-left: 70px;
+							border: 2px solid black;
+							width: 70%;
+							background-color: #ABA7CA;
+
+						}
+
+           			   h2 
+           			{
+           				font-weight: bold;
+           				font-size: 2em;
+           			}
+
+           		.image
+           		{
+                	
+					top: 260px;
+                    left: 30px;
+                    width: 300px;
+                    border: 10px solid;
+
+                 
+                    }
